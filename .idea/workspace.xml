@@ -13,13 +13,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="-22">
               <caret line="11" column="32" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/ExtendedMain01.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
@@ -28,41 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended02/ExtendedMain02.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day001-20181220/src/com/nickylai/Demo06System/Demo01System.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/Demo02Iterator/Test01Iterator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk-9.0.4/lib/src.zip!/java.base/java/util/ArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="871" column="31" selection-start-line="871" selection-start-column="23" selection-end-line="871" selection-end-column="31" />
-              <folding>
-                <element signature="e#6326#6327#0" expanded="true" />
-                <element signature="e#6394#6395#0" expanded="true" />
-                <element signature="e#32196#32197#0" expanded="true" />
-                <element signature="e#32228#32229#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -128,14 +98,17 @@
         <option value="$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/ExtendedMain.java" />
         <option value="$PROJECT_DIR$/Day002-20181221/src/com/heima/Demo02Iterator/Test01Iterator.java" />
         <option value="$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended02/ExtendedMain02.java" />
+        <option value="$PROJECT_DIR$/Day001-20181220/src/com/nickylai/Demo06System/Demo01System.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="950" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="488" />
+    <option name="y" value="41" />
     <option name="width" value="979" />
     <option name="height" value="990" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -146,32 +119,25 @@
           <expand>
             <path>
               <item name="Java_Intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day002-20181221" type="462c0819:PsiDirectoryNode" />
+              <item name="Day001-20181220" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day002-20181221" type="462c0819:PsiDirectoryNode" />
+              <item name="Day001-20181220" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day002-20181221" type="462c0819:PsiDirectoryNode" />
+              <item name="Day001-20181220" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="heima" type="462c0819:PsiDirectoryNode" />
+              <item name="nickylai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Java_Intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day002-20181221" type="462c0819:PsiDirectoryNode" />
+              <item name="Day001-20181220" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="heima" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo02Iterator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Java_Intermediate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Day002-20181221" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="heima" type="462c0819:PsiDirectoryNode" />
-              <item name="TaskExtended01" type="462c0819:PsiDirectoryNode" />
+              <item name="nickylai" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo06System" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -350,7 +316,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48526000" />
+    <option name="totallyTimeSpent" value="50035000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -365,7 +331,7 @@
     <frame x="-7" y="-7" width="1550" height="798" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1152815" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1152815" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,7 +340,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2353823" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23388305" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3928036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -497,17 +463,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Day01-20181220/src/com/nickylai/Extended01.java" />
-    <entry file="file://$PROJECT_DIR$/Day001-20181220/src/com/nickylai/Demo06System/Demo01System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day001-20181220/src/com/nickylai/Demo02/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -744,13 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="32" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended02/ExtendedMain02.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
@@ -784,10 +732,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="11" column="32" selection-start-line="8" selection-start-column="3" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day002-20181221/src/com/heima/TaskExtended01/ExtendedMain01.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day001-20181220/src/com/nickylai/Demo06System/Demo01System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

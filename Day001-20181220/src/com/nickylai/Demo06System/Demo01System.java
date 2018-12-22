@@ -20,4 +20,8 @@ public class Demo01System {
         System.arraycopy(a,0,dest,0,3);
         System.out.println("复制前"+ Arrays.toString(dest));
     }
+    public  static void method01(){
+
+        int a=0;
+    }
 }
