@@ -3,7 +3,7 @@ package com.heima.Demo04VarArgs;
 /**
  * @author Nickylai
  * @version 1.0.0
- * @description可变参数
+ * @description 可变参数
  * 使用前提，当方法的参数列表数据类型已经确定，但参数的个数不确定，就可以使用可变参数
  * 使用格式
  * 修饰符 返回值类型 方法名（数据类型...变量名）｛｝
